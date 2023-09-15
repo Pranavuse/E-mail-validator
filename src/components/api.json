@@ -1,0 +1,17 @@
+{
+    "email": "masterpranavjain2@gmail.com",
+    "user": "masterpranavjain2",
+    "tag": "",
+    "domain": "gmail.com",
+    "smtp_check": true,
+    "mx_found": true,
+    "did_you_mean": "",
+    "role": false,
+    "disposable": false,
+    "score": 0.64,
+    "state": "deliverable",
+    "reason": "valid_mailbox",
+    "free": true,
+    "format_valid": true,
+    "catch_all": null
+}
